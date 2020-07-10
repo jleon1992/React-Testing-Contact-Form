@@ -42,7 +42,7 @@ In order to complete your mission for today, you will need to write tests to hel
 1. Add your first test. This one should be a very simple test to make sure the testing setup is working.
 1. Write a sufficient amount of tests to give you confidence in the project's code
 
-_If you come across any "unexpected" behaviors in the form UI (not the test), try this flow:_
+_If you come across any "unexpected" behaviors in the form UI (not the test), try the following:_
 
 - [ ] You may have noticed that the form validation for one of the inputs is a little off...
 - [ ] Write a test for the "expected" behavior (it will fail because something in the component is doing something unexpected)
